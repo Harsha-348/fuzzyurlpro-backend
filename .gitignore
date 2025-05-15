@@ -1,2 +1,21 @@
-.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+.venv/
+*.sqlite3
+
+# Node
+node_modules/
+build/
+dist/
+
+# Django
+media/
+staticfiles/
+db.sqlite3
+
+# Environment
 .env
