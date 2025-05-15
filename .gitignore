@@ -11,6 +11,7 @@ env/
 node_modules/
 build/
 dist/
+dist/geoip/GeoLite2-City.mmdb
 
 # Django
 media/
